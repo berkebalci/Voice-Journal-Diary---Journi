@@ -15,10 +15,15 @@ Ai Powered Voice Journal App, Mobven Young Talent 2025
 
 
 Contributed to the development of an innovative AI powered voice journaling application leveraging AI to provide personalized insights through intelligent assistants
+
 Implemented modern Android architecture using Kotlin, Jetpack Compose, MVVM, Clean Architecture, reducing code complexity by 30%
+
 Built speech-to-text and text-to-speech modules enabling real-time voice interaction with <1s latency
+
 Developed subscription systems using Adapty SDK
+
 Established the entire Google Cloud and Firebase infrastructure and delivered a production-ready build, ensuring the application was fully prepared for store deployment
+
 Collaborated in daily Agile ceremonies with 10+ team members across product, design and backend teams
 
 Store link: https://apps.apple.com/tr/app/voice-journal-diary-journi/id6748681926

@@ -1,12 +1,17 @@
 # Voice-Journal-Diary---Journi
 Ai Powered Voice Journal App, Mobven Young Talent 2025 
 
-![1757491896800](https://github.com/user-attachments/assets/17e9b69b-606c-4fa3-ab90-193649b561e4)
-![1757491896526](https://github.com/user-attachments/assets/e1f17a2e-906d-4391-a1b1-e6e7f055314e)
-![1757491896259](https://github.com/user-attachments/assets/ee81331b-cfcc-4c76-868d-5f92fbefae41)
-![1757491895968](https://github.com/user-attachments/assets/84fef28d-eeeb-4735-b5c4-56f98f886bbe)
-![1757491895798](https://github.com/user-attachments/assets/5366de1f-0ee7-45f2-9ad8-bd6b023ba2bd)
-![1757491895111](https://github.com/user-attachments/assets/63674e9c-b30d-4677-9ec6-e9db31ff6e7b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17e9b69b-606c-4fa3-ab90-193649b561e4" width="250">
+  <img src="https://github.com/user-attachments/assets/e1f17a2e-906d-4391-a1b1-e6e7f055314e" width="250">
+  <img src="https://github.com/user-attachments/assets/ee81331b-cfcc-4c76-868d-5f92fbefae41" width="250">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84fef28d-eeeb-4735-b5c4-56f98f886bbe" width="250">
+  <img src="https://github.com/user-attachments/assets/5366de1f-0ee7-45f2-9ad8-bd6b023ba2bd" width="250">
+  <img src="https://github.com/user-attachments/assets/63674e9c-b30d-4677-9ec6-e9db31ff6e7b" width="250">
+</p>
 
 
 Contributed to the development of an innovative AI powered voice journaling application leveraging AI to provide personalized insights through intelligent assistants
